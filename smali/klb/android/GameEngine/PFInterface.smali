@@ -2499,7 +2499,7 @@
     .catch Ljava/security/NoSuchAlgorithmException; {:try_start_0 .. :try_end_0} :catch_0
 
     .line 1195
-    const-string p0, "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz2Z/TyjpY/Pwx7RiPJ+dT+1fzBmNr9ncRH99FWUx7wlrH+EuRcAh3j3BTTkL9fi1QVYNHi+Y58lAI7hkupQFACiPxcrF4YzSRz5zYiJP6XGQ6vrdZ2Mfhga/flCLgA3W1gk6WGlU/xh3Li90lnB3L+gsIkpUQpAU7voGUfk4l7DjhGVMWqGR6MumoJdPhtxtRKpJxRAZmeY+mERn6Z3wdPIKWTaDFNFa85/To6bmPHgyWc65q7HYo6LreOG4OCUsGk8QfKf9mx6o12zN+wqFvfOuzgToVFiA+LrzQn27PvHKertCse4vkZ8GD+acWh1rDWdPqRdNrwbpWGZirE1wtQIDAQAB"
+    const-string p0, "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDS6u1T8bn2ZCSs7og2ARcVL+eOhLtpY3dYGj113YE5qvPlPd2LJkPR6fkOzhxuAIxvOtmv8JjDE9BpzZUINBsVf0dF+8zjprhYLOkydq8eL8ZXA9bOezTgLxqAZAZ6dTqM6AkEBPlzr/ctJEMqJE+c/OHyFcBZLNjUBZUBtiG3DQIDAQAB"
 
     const/4 v3, 0x0
 
